@@ -3,7 +3,7 @@ layout: page
 title: College History
 order: 1
 ---
-![logo]({{ "/assets/banner.jpg" | relative_url }})
+![logo]({{ "/assets/banner.jpg" | absolute_url }})
 
 The state timber co-operation was the first owners of the land which belongs to Wariyapola Sri Sumangala College today.It was named as ‘Wariyapola Sri Sumangala’ with retrospect of the Wariyapola Sri Sumangala thero who fought for our freedom during the era of imperialism.Now Wariyapola Sri Sumangala College is at its height of glory and grandeur in the ancient city of Senkadagala.
 
