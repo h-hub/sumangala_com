@@ -3,7 +3,7 @@ layout: page
 title: College History
 order: 1
 ---
-![logo]({{ "/assets/banner.jpg" | absolute_url }})
+![logo]({{ "/assets/banner.jpg" | relative_url }})
 
 **We are rebuilding the Website. Completed website will be available soon and Thanks for visiting.**
 
