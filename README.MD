@@ -1,0 +1,1 @@
+RUN: bundle exec jekyll serve

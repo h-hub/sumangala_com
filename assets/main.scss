@@ -1,0 +1,37 @@
+--- 
+layout: nil 
+--- 
+
+@import "minima";
+
+.container {
+	width: 100%;
+	display:block;
+}
+
+
+
+$breakpoint-tablet: 768px;
+@media (min-width: $breakpoint-tablet) {
+	.latest-events {
+		width: 50%;
+		float:left;
+	}
+
+	.social{
+		width: 50%;
+		float:left;
+	}
+}
+
+@media (man-width: $breakpoint-tablet) {
+	.latest-events {
+		width: 100%;
+		float:left;
+	}
+
+	.social{
+		width: 100%;
+		float:left;
+	}
+}
